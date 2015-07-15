@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.logcat.automation.tests">
+    <application android:label="UiAutomator Template"/>
+</manifest>
