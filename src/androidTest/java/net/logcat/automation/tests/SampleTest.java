@@ -28,7 +28,7 @@ import static org.hamcrest.core.IsNull.notNullValue;
 public class SampleTest {
 
     private static final String PACKAGE_NAME = "com.android.dialer";
-    private static final long LAUNCH_TIMEOUT = 10000;
+    private static final long LAUNCH_TIMEOUT = 2000;
 
     private UiDevice d;
 
